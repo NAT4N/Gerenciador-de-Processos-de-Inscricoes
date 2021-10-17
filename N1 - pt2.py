@@ -98,3 +98,42 @@ def listarUsuariosOrdemAlfabetica():
         print("=========================")
     usuarios.reverse()
     continuarMenu()
+  
+def verificarLista(nome):
+    for search in usuarios:
+        if search[0] == nome:
+            print ("O usuário está na lista\n")
+            continuarMenu()
+    print("O usuário não está na lista\n")
+    continuarMenu()
+    
+def removerUsuarios(email):
+    flag = 0
+    for search in usuarios:
+        if search[1] == email:
+            del(usuarios[flag])
+            print("Usuário removido\n")
+            return listarUsuariosOrdemCadastro()
+        flag += 1 
+
+    print("E-mail não encontrado.\n")
+    listarUsuariosOrdemCadastro()
+
+def alterarUsuario(email): 
+    flag = 0
+    for search in usuarios:
+        if search[1] == email:
+            getData["Nome"] = input("Digite o novo nome: ")
+            getData["E-mail"] = search[1]
+            usuarios[flag][0] = getData["Nome"]
+            print("Usuário alterado\n")
+            return listarUsuariosOrdemCadastro()
+        flag += 1
+    print("E-mail não encontrado.\n")
+    continuarMenu()
+
+def main():
+    menu()
+        
+if __name__ == "__main__":
+    main()

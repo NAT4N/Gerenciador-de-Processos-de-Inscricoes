@@ -57,4 +57,44 @@ def menu():
     else:
         print("Escolha uma opção valida")
         continuarMenu()
-        a
+        
+def continuarMenu():
+  print("1 - Continuar\n")
+  print("2 - Encerrar\n")
+  choice = int(input(""))
+  if (choice == 1):
+    menu()
+  elif(choice == 2):
+    print("Encerrando...")
+    pass
+  else:
+    print("Opção inválida!")
+    continuarMenu()
+      
+def cadastrarUsuarios(nomeCompleto, email):
+    getData["Nome"] = nomeCompleto
+    getData["E-mail"] = email
+    usuarios.append([getData["Nome"], getData["E-mail"]])
+    continuarMenu()
+  
+def listarUsuariosOrdemCadastro():
+    for getUser in usuarios:
+        getData["Nome"] = getUser[0]
+        getData["E-mail"] = getUser[1]
+        print("\n=========================")
+        print("Nome: ", getData["Nome"])   
+        print("E-mail: ", getData["E-mail"])
+        print("=========================")    
+    continuarMenu()
+  
+def listarUsuariosOrdemAlfabetica():
+    usuarios.sort()
+    for getUser in usuarios:
+        getData["Nome"] = getUser[0]
+        getData["E-mail"] = getUser[1]
+        print("\n=========================")
+        print("Nome: ", getData["Nome"])   
+        print("E-mail: ", getData["E-mail"])
+        print("=========================")
+    usuarios.reverse()
+    continuarMenu()

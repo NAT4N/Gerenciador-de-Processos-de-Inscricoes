@@ -57,3 +57,4 @@ def menu():
     else:
         print("Escolha uma opção valida")
         continuarMenu()
+        a

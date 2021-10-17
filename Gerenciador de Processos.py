@@ -21,9 +21,9 @@ def menu():
         print("\n ========================= \n")
         print("Cadastrar Usuário\n")
         print("Digite o nome completo\n")
-        nomeCompleto = input("")
+        nomeCompleto = input("").upper()
         print("Digite o E-mail\n")
-        email = input("")
+        email = input("").upper()
         cadastrarUsuarios(nomeCompleto, email)
     elif(choice == 2):
         print("\n ========================= \n")
@@ -37,19 +37,19 @@ def menu():
         print("\n ========================= \n")
         print("Verificar Usuário na Lista\n")
         print("Digite o nome do usuário: \n")
-        nome = input("")
+        nome = input("").upper()
         verificarLista(nome)
     elif(choice == 5):
         print("\n ========================= \n")
         print("Remover usuário\n")
         print("Digite o e-mail do usuário: \n")
-        email = input("")
+        email = input("").upper()
         removerUsuarios(email)
     elif(choice == 6):
         print("\n ========================= \n")
         print("Alterar o nome de um Usuário\n")
         print("Digite o e-mail do usuário:\n")
-        email = input("")
+        email = input("").upper()
         alterarUsuario(email)
     elif(choice == 0):
         print("\n ========================= \n")
@@ -103,7 +103,7 @@ def verificarLista(nome):
     for search in usuarios:
         if search[0] == nome:
             print ("O usuário está na lista\n")
-            continuarMenu()
+            return continuarMenu()
     print("O usuário não está na lista\n")
     continuarMenu()
     
@@ -123,7 +123,7 @@ def alterarUsuario(email):
     flag = 0
     for search in usuarios:
         if search[1] == email:
-            getData["Nome"] = input("Digite o novo nome: ")
+            getData["Nome"] = input("Digite o novo nome: ").upper()
             getData["E-mail"] = search[1]
             usuarios[flag][0] = getData["Nome"]
             print("Usuário alterado\n")

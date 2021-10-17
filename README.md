@@ -12,7 +12,6 @@ Alunos:<br>
 Natan Santos Bastos - 21448739 <br>
 Pedro Henrique Gil Antunes - 21559716 <br>
 Pedro Henrique Silva Torres Souza - 21579020 <br>
-<br><br>
 <h1></h1>
 
  🔧  Problemas a serem resolvidos:

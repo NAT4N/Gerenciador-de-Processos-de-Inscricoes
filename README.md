@@ -1,4 +1,8 @@
-<h1 align="center">  Gerenciador de Processos de Inscricoes </h1>
+<h1 align="center">  Gerenciador de Processos de Inscricoes </h1> 
+  <br><br>
+  <img src ="https://portal.anhembi.br/wp-content/themes/anhembi/library/images/logo-anhembi-50.png" alt="Win11Check" width="600">
+  <br>
+</h1>
 
 <p> :pencil:  Projeto de desenvolvimento de um gerenciador de processos de inscrições em um evento técnico realizado por uma instituição superior</p>
 

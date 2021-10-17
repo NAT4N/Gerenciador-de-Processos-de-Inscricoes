@@ -12,10 +12,19 @@ Alunos:<br>
 Natan Santos Bastos - 21448739 <br>
 Pedro Henrique Gil Antunes - 21559716 <br>
 Pedro Henrique Silva Torres Souza - 21579020 <br>
+<br><br>
+</h1>
 
-<p> :pencil:  Desafios do Sistema:
+<p> 🔧  Problemas a serem resolvidos:
 
 <h1 align="center">
 <img src = "https://i.imgur.com/AeErJrf.png" alt="Win11Check" width="600">
+<br>
+</h1>
+
+<p> 💀  Desafios do sitema:
+
+<h1 align="center">
+<img src = "https://i.imgur.com/kVqTm84.png" alt="Win11Check" width="600">
 <br>
 </h1>

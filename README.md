@@ -1,4 +1,4 @@
-<h1 align="center">  Gerenciador de Processos de Inscricões
+<h1 align="center">  Gerenciador de Processos de Inscrições
   <br><br>
   <img src ="https://portal.anhembi.br/wp-content/themes/anhembi/library/images/logo-anhembi-50.png" alt="Win11Check" width="600">
   <br>

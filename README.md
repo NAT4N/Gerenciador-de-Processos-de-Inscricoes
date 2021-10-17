@@ -2,7 +2,11 @@
 
 Orientador: Professor André Santana
 
-Alunos:\n
-Natan Santos Bastos - 21448739\n
-Pedro Henrique Gil Antunes - 21559716\n
-Pedro Henrique Silva Torres Souza - 21579020\n
+Alunos:
+
+Natan Santos Bastos - 21448739
+
+Pedro Henrique Gil Antunes - 21559716
+
+Pedro Henrique Silva Torres Souza - 21579020
+

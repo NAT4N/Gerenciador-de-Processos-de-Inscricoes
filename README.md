@@ -1,10 +1,3 @@
-<h1 align="center">
-  
-![badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![badge](https://img.shields.io/github/repo-size/NAT4N/Dungeon-Simulator---RPG?style=for-the-badge)
-
- </h1>
- 
 <h1 align="center">  Gerenciador de Processos de Inscricoes 
   <br><br>
   <img src ="https://i.ytimg.com/vi/xK54xgVSls0/maxresdefault.jpg" alt="Win11Check" width="600">

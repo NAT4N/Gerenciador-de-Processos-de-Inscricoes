@@ -1,4 +1,4 @@
-<h1 align="center"> # Gerenciador-de-Processos-de-Inscricoes
+<h1 align="center"> Gerenciador de Processos de Inscricoes
 </h1>
 
 Orientador: Professor André Santana

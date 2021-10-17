@@ -1,8 +1,4 @@
 <h1 align="center">  Gerenciador de Processos de Inscricoes 
-  <br><br>
-  <img src ="https://i.ytimg.com/vi/xK54xgVSls0/maxresdefault.jpg" alt="Win11Check" width="600">
-  <br>
-</h1>
 
 <p> :pencil:  Projeto de desenvolvimento de um gerenciador de processos de inscrições em um evento técnico realizado por uma instituição superior</p>
 

@@ -1,4 +1,4 @@
-<h1 align="center">  Gerenciador de Processos de Inscricoes 
+<h1 align="center">  Gerenciador de Processos de Inscricoes </h1>
 
 <p> :pencil:  Projeto de desenvolvimento de um gerenciador de processos de inscrições em um evento técnico realizado por uma instituição superior</p>
 

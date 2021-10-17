@@ -1,4 +1,4 @@
-# Gerenciador-de-Processos-de-Inscricoes
+<h1 align="center"> # Gerenciador-de-Processos-de-Inscricoes
 
 Orientador: Professor André Santana
 

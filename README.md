@@ -1,4 +1,4 @@
-<h1 align="center">  Gerenciador de Processos de Inscricoes
+<h1 align="center">  Gerenciador de Processos de Inscricões
   <br><br>
   <img src ="https://portal.anhembi.br/wp-content/themes/anhembi/library/images/logo-anhembi-50.png" alt="Win11Check" width="600">
   <br>
@@ -13,7 +13,7 @@ Natan Santos Bastos - 21448739 <br>
 Pedro Henrique Gil Antunes - 21559716 <br>
 Pedro Henrique Silva Torres Souza - 21579020 <br>
 
-<p> :pencil:  Funções definidas:
+<p> :pencil:  Desafios do Sistema:
 
 <h1 align="center">
 <img src = "https://i.imgur.com/AeErJrf.png" alt="Win11Check" width="600">

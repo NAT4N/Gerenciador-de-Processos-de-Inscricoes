@@ -1,6 +1,6 @@
 <h1 align="center">  Gerenciador de Processos de Inscrições
   <br><br>
-  <img src ="https://portal.anhembi.br/wp-content/themes/anhembi/library/images/logo-anhembi-50.png" alt="Win11Check" width="600">
+  <img src ="https://user-images.githubusercontent.com/68129527/173252852-c1188190-a405-4533-b702-340e69a33f41.png" alt="Logo Anhembi" width="600">
   <br>
 </h1>
 
